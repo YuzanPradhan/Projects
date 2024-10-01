@@ -29,8 +29,3 @@ This is a dynamic e-commerce website where users can browse products, add items 
 - Eclipse IDE for Enterprise Java Developers
 - MySQL Database
 
-### Steps
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/divyaSht04/Dynamic-Ecom-website-using-java-servlets.git
